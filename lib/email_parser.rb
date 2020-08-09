@@ -9,3 +9,4 @@ class EmailAddressParser
   def initialize(emails)
     @list = emails
   end
+end
